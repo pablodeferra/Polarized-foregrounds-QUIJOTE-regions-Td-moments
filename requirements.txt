@@ -1,0 +1,9 @@
+# Versions used for the paper (Python 3.11)
+pymaster==1.5.1
+numpy==1.26.4
+scipy==1.10.1
+astropy==7.1.0
+healpy==1.16.5
+emcee==3.1.6
+pysm3==3.4.2
+requests==2.32.5

@@ -1,0 +1,7 @@
+# Large inputs and computed results: not in the repository
+data/maps/
+results/
+
+# Python caches
+__pycache__/
+*.pyc
